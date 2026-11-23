@@ -34,6 +34,7 @@
 
 - **[CGMiner](https://github.com/ckolivas/cgminer)** - One of the most popular and oldest open-source mining software, supporting multiple cryptocurrencies.
 - **[BFGMiner](https://github.com/luke-jr/bfgminer)** - A modular ASIC/FPGA miner written in C, offering dynamic clocking and fan control.
+- **[Easy Block Finder 4000 (EBF4000)](https://github.com/easyblockfinder/easy-block-finder-4000)** - Open-source Windows mining GUI supporting BTC/BCH via OpenCL, XMR via XMRig, and RVN/ERG via Rigel, with idle-aware controls and hardware monitoring.
 - **[NiceHash QuickMiner](https://www.nicehash.com/quick-miner)** - A user-friendly mining software for beginners, offering easy setup and automatic optimization.
 - **[PhoenixMiner](https://phoenixminer.org/)** - An Ethereum and GPU mining software known for its speed and efficiency.
 - **[XMRig](https://github.com/xmrig/xmrig)** - A high-performance Monero (XMR) miner with support for CPU, NVIDIA, and AMD GPUs.
